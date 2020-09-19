@@ -17,10 +17,11 @@ Education
 
 Work experience
 ======
-* Fall 2019: Teaching Assistant
-  * the George Washington University
-  * Duties included: 
-  * Supervisor: Professor Caliskan
+* Fall 2010: Teaching Assistant of CSCI 2312 Discrete Structures II
+
+* Spring 2020: Teaching Assistant of CSCI 2461 Computer Architecture
+
+* Fall 2019: Teaching Assistant of CSCI 2461 Computer Architecture
 
 
   
@@ -28,7 +29,6 @@ Skills
 ======
 * Machine Learning
 * Web Development
-
 * Data Analysis
 
 
