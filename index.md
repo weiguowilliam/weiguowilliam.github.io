@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 
-I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by Professor [Peng Wei](https://web.seas.gwu.edu/pwei/) and Professor [Rober Pless](https://www2.seas.gwu.edu/~pless/). I'm interested in developing deep reinforcement learning algorithms for aviation safety managemen. My current research is focused on developing deep reinforcement learning approaches for collision avoidance and motion planning.
+I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by Professor [Peng Wei](https://web.seas.gwu.edu/pwei/) and Professor [Rober Pless](https://www2.seas.gwu.edu/~pless/). I’m interested in deep reinforcement learning and multi-agent reinforcement learning algorithms in safety-critical decision making systems. My current research is focused on developing deep reinforcement learning approaches for collision avoidance and motion planning.
 
 ## Research Interests
 
