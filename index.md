@@ -14,6 +14,8 @@ I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by P
 
 ## News
 
+- **[Apr. 2022]** I will join Amazon as Applied Scientist intern this summer.
+- **[Apr. 2022]** Our paper about explainable deep reinforcement learning is accepted to [DASC 2022](https://2022.dasconline.org).
 - **[July 2021]** Our paper about safety enhancement in autonomous separation assurance is accepted to [ITSC 2021](https://2021.ieee-itsc.org/).
 - **[Apr. 2021]** Our paper about semantic bias in neural language models is accepted to [AIES 2021](https://www.aies-conference.com/2021/) and selected for the [oral presentation](https://slideslive.com/38956056/detecting-emergent-intersectional-biases-contextualized-word-embeddings-contain-a-distribution-of-humanlike-biases).
 - **[Jan. 2021]** Our paper about characterizing biases on Twitter is accepted to [ICSC 2021](https://semanticcomputing.wixsite.com/icsc2021).
