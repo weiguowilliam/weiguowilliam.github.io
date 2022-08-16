@@ -22,6 +22,14 @@ I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by P
 
 ## Publications
 
+- **EXPLAINABLE DEEP REINFORCEMENT LEARNING FOR AIRCRAFT SEPARATION ASSURANCE**
+  <br>
+  **W. Guo**, P. Wei
+  <br>
+  41th Digital Avionics Systems Conference。 **DASC 2022**.
+  <br>
+  [[PDF](https://cpb-us-w2.wpmucdn.com/web.seas.gwu.edu/dist/9/15/files/2022/05/DASC22_Wei.pdf)] 
+
 - **Safety Enhancement for Deep Reinforcement Learning in Autonomous Separation Assurance**
   <br>
   **W. Guo**, M. Brittain, P. Wei
