@@ -22,7 +22,7 @@ I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by P
 
 ## Publications
 
-- **EXPLAINABLE DEEP REINFORCEMENT LEARNING FOR AIRCRAFT SEPARATION ASSURANCE**
+- **Explainable Deep Reinforcement Learning for  Aircraft Separation Assurance**
   <br>
   **W. Guo**, P. Wei
   <br>
