@@ -26,7 +26,7 @@ I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by P
   <br>
   **W. Guo**, P. Wei
   <br>
-  41th Digital Avionics Systems Conference **DASC 2022**.
+  41th Digital Avionics Systems Conference. **DASC 2022**.
   <br>
   [[PDF](https://cpb-us-w2.wpmucdn.com/web.seas.gwu.edu/dist/9/15/files/2022/05/DASC22_Wei.pdf)] 
 
