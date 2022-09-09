@@ -14,6 +14,7 @@ I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by P
 
 ## News
 
+- **[Sept. 2022]** Our paper about explainable deep reinforcement learning won the Best of Session Award in [DASC 2022](https://2022.dasconline.org).
 - **[May 2022]** I will join Amazon as Applied Scientist intern this summer.
 - **[Apr. 2022]** Our paper about explainable deep reinforcement learning is accepted to [DASC 2022](https://2022.dasconline.org).
 - **[July 2021]** Our paper about safety enhancement in autonomous separation assurance is accepted to [ITSC 2021](https://2021.ieee-itsc.org/).
@@ -28,7 +29,7 @@ I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by P
   <br>
   41th Digital Avionics Systems Conference. **DASC 2022**.
   <br>
-  [[PDF](https://cpb-us-w2.wpmucdn.com/web.seas.gwu.edu/dist/9/15/files/2022/05/DASC22_Wei.pdf)] 
+  [[PDF](https://cpb-us-w2.wpmucdn.com/web.seas.gwu.edu/dist/9/15/files/2022/05/DASC22_Wei.pdf)] [[Slides](https://www.slideshare.net/WeiGuo66/explainable-deep-reinforcement-learning-for-aircraft-separation-assurance)]
 
 - **Safety Enhancement for Deep Reinforcement Learning in Autonomous Separation Assurance**
   <br>
