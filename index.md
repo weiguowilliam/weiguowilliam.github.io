@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 
-I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by Professor [Peng Wei](https://web.seas.gwu.edu/pwei/) and Professor [Robert Pless](https://www2.seas.gwu.edu/~pless/). I’m interested in deep reinforcement learning and multi-agent reinforcement learning algorithms in safety-critical decision making systems. My current research is focused on developing deep reinforcement learning approaches for collision avoidance and motion planning.
+I'm a Ph.D. candidate in the Intelligent Aerospace Systems Lab (IASL) advised by Professor [Peng Wei](https://web.seas.gwu.edu/pwei/) and Professor [Robert Pless](https://www2.seas.gwu.edu/~pless/). I’m interested in deep reinforcement learning and multi-agent reinforcement learning algorithms in safety-critical decision making systems. My current research is focused on developing deep reinforcement learning approaches for collision avoidance and motion planning.
 
 ## Research Interests
 
@@ -30,6 +30,14 @@ I'm a Ph.D. student in the Intelligent Aerospace Systems Lab (IASL) advised by P
   41th Digital Avionics Systems Conference. **DASC 2022**.
   <br>
   [[PDF](https://cpb-us-w2.wpmucdn.com/web.seas.gwu.edu/dist/9/15/files/2022/05/DASC22_Wei.pdf)] [[Slides](https://www.slideshare.net/WeiGuo66/explainable-deep-reinforcement-learning-for-aircraft-separation-assurance)]
+  
+ - **A Survey of eVTOL Aircraft and AAM Operation Hazards**
+  <br>
+  E. L. Thompson, A. G. Taye, **W. Guo**, P. Wei, M. Quinones-Grueiro, I. Ahmed, G. Biswas, J. Quattrociocchi, S. Carr, U. Topcu, J. Jones and M. Brittain
+  <br>
+  AIAA AVIATION 2022 Forum.
+  <br>
+  [[PDF](https://cpb-us-w2.wpmucdn.com/web.seas.gwu.edu/dist/9/15/files/2022/05/aviation22_UAMhazard_Ellis.pdf)] 
 
 - **Safety Enhancement for Deep Reinforcement Learning in Autonomous Separation Assurance**
   <br>
