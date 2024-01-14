@@ -5,23 +5,31 @@ layout: homepage
 ## About Me
 
 
-I'm a Ph.D. from the Computer Science department of the George Washington University. I was advised by Professor [Peng Wei](https://web.seas.gwu.edu/pwei/) and Professor [Robert Pless](https://www2.seas.gwu.edu/~pless/) and worked in the Intelligent Aerospace Systems Lab (IASL). I’m interested in deep reinforcement learning and multi-agent reinforcement learning algorithms in safety-critical decision making systems. My current research is focused on developing deep reinforcement learning approaches for collision avoidance and motion planning.
+I currently serve as an Applied Scientist at Amazon, where my passion and expertise in safe and trustworthy machine learning. In 2023, I earned my PhD in Computer Science from George Washington University. My doctoral journey was enriched by the guidance and mentorship of Professors [Peng Wei](https://web.seas.gwu.edu/pwei/) and Professor [Robert Pless](https://www2.seas.gwu.edu/~pless/). My research is now dedicated to advancing natural language processing techniques, with a specific focus on enhancing the safety and trustworthiness of machine learning systems.
 
 ## Research Interests
 
-- **Methods:** Deep Reinforcement Learning, Multi-agent Reinforcement Learning, Deep Learning, Statistical Machine Learning, Convex Optimization, Natural Language Processing
-- **Focused Applications:** Safety in Learning-based Planning and Control, Safety Verification for Deep Reinforcement Learning
+- **Methods:** Natural Language Processing, Deep Reinforcement Learning, Multi-agent Reinforcement Learning, Deep Learning, Statistical Machine Learning 
+- **Focused Applications:** Trustworthy Natural Langauge Processing, Safety Verification for Deep Reinforcement Learning
 
 ## News
-
-- **[Sept. 2022]** Our paper about explainable deep reinforcement learning was selected as one of the finalists for the best student paper award and won the best of session award in [DASC 2022](https://2022.dasconline.org).
-- **[May 2022]** I will join Amazon as Applied Scientist intern this summer.
+- **[Sept. 2023]** Our paper about safety validation on deep reinforcement learning algorithm is accepted to [DASC 2023](https://2023.dasconline.org).
+- **[Sept. 2022]** Our paper about explainable deep reinforcement learning is selected as one of the finalists for the best student paper award and won the best of session award in [DASC 2022](https://2022.dasconline.org).
+- **[May 2022]** I graduated with a PhD in Computer Science from GWU and will join Amazon as Applied Scientist intern this summer.
 - **[Apr. 2022]** Our paper about explainable deep reinforcement learning is accepted to [DASC 2022](https://2022.dasconline.org).
 - **[July 2021]** Our paper about safety enhancement in autonomous separation assurance is accepted to [ITSC 2021](https://2021.ieee-itsc.org/).
 - **[Apr. 2021]** Our paper about semantic bias in neural language models is accepted to [AIES 2021](https://www.aies-conference.com/2021/) and selected for the [oral presentation](https://slideslive.com/38956056/detecting-emergent-intersectional-biases-contextualized-word-embeddings-contain-a-distribution-of-humanlike-biases).
 - **[Jan. 2021]** Our paper about characterizing biases on Twitter is accepted to [ICSC 2021](https://semanticcomputing.wixsite.com/icsc2021).
 
 ## Publications
+
+- **Safety Validation for Deep Reinforcement Learning Based Aircraft Separation Assurance with Adaptive Stress Testing**
+  <br>
+  **W. Guo**, M. Brittain, P. Wei
+  <br>
+  42th Digital Avionics Systems Conference. **DASC 2023**.
+  <br>
+  [[PDF]([https://cpb-us-w2.wpmucdn.com/web.seas.gwu.edu/dist/9/15/files/2022/05/DASC22_Wei.pdf](https://bpb-us-w2.wpmucdn.com/web.seas.gwu.edu/dist/9/15/files/2023/09/DASC2023_Wei.pdf))]
 
 - **Explainable Deep Reinforcement Learning for  Aircraft Separation Assurance**
   <br>
